@@ -7,6 +7,6 @@ A Simple Kernel developed in C/C++ for educational purposes only.
   $> cd cha_os
   $> make -f Makefile
   ```
-  Compiles the code and created a ```cha_os.bin```
+  Compiles the code and created a ```mykernel.bin```
   
   Install qemu to run the binary files in virtual environment.
